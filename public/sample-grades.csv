@@ -1,0 +1,6 @@
+studentId,subject,type,score,totalPoints,date,comments
+STU001,Mathematics,test,85,100,2024-03-15,Excellent understanding of calculus
+STU002,Physics,assignment,92,100,2024-03-14,Outstanding lab report
+STU003,English,project,88,100,2024-03-10,Well-structured essay
+STU004,Chemistry,exam,95,100,2024-03-12,Perfect understanding of organic chemistry
+STU005,Biology,test,78,100,2024-03-11,Good grasp of cellular biology
